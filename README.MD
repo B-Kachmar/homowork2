@@ -1,1 +1,1 @@
-Branch Develop created from main
+Branch develop created from Develop
